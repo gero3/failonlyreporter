@@ -1,0 +1,25 @@
+{
+  "name": "failonlyreporter",
+  "version": "1.0.0",
+  "description": "A jsreporter that only show failures and a summary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gero3/failonlyreporter.git"
+  },
+  "keywords": [
+    "reporter"
+  ],
+  "author": "gero3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gero3/failonlyreporter/issues"
+  },
+  "homepage": "https://github.com/gero3/failonlyreporter#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
